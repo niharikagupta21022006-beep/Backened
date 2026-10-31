@@ -1,0 +1,23 @@
+{
+  "name": "chaibackened",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "Learning-Backened"
+  },
+  "license": "ISC",
+  "author": "Niharika Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
